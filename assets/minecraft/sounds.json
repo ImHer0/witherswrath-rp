@@ -1,0 +1,6 @@
+{
+	"wither.10sec":{"category":"hostile","sounds":["wither/10sec"]},
+	"wither.death":{"category":"hostile","sounds":["wither/death"]},
+	"wither.phase1":{"category":"hostile","sounds":["wither/phase1"]},
+	"wither.phase2":{"category":"hostile","sounds":["wither/phase2"]}
+	}

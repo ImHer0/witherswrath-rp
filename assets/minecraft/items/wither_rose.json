@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "ᴡɪᴛʜᴇʀᴇᴅ ʀᴏꜱᴇ",
+          "color": "#CC99FF",
+          "shadow_color": -8388353,
+          "bold": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/trophy"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wither_rose"
+    }
+  }
+}

@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 46,
-    "description": "Made by ImHer0 B)"
+    "description": "§1§l▌ §r§fᴍᴀᴅᴇ ʙʏ §6ImHer0§r                 §1§l▌ §r§fꜰᴏʀ ᴡɪᴛʜᴇʀ'ꜱ ᴡʀᴀᴛʜ 💀",
+    "pack_format": 55,
+    "supported_formats": [
+      55,
+      71
+    ]
   }
 }

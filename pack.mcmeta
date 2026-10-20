@@ -1,10 +1,8 @@
 {
-  "pack": {
-    "description": "§1§l▌ §r§fᴍᴀᴅᴇ ʙʏ §6ImHer0§r                 §1§l▌ §r§fꜰᴏʀ ᴡɪᴛʜᴇʀ'ꜱ ᴡʀᴀᴛʜ 💀",
-    "pack_format": 97.1,
-    "supported_formats": [
-      55,
-      97.1
-    ]
-  }
+	"pack": {
+		"description": "§1§l▌ §r§fᴍᴀᴅᴇ ʙʏ §6ImHer0§r                 §1§l▌ §r§fꜰᴏʀ ᴡɪᴛʜᴇʀ'ꜱ ᴡʀᴀᴛʜ 💀",
+		"pack_format": 80,
+		"min_format": 80,
+		"max_format": 130
+	}
 }

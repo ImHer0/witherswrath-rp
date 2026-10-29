@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "skeleton_horse_saddle": [
+      {
+        "texture": "wither:wither_steed"
+      }
+    ]
+  }
+}

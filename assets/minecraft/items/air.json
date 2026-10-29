@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "wither:bone_knight",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/bone_knight"
+        }
+      },
+      {
+        "when": "wither:soul_archer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/soul_archer"
+        }
+      },
+      {
+        "when": "wither:triskull",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/triskull"
+        }
+      },
+      {
+        "when": "wither:hexbinder",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/hexbinder"
+        }
+      },
+      {
+        "when": "wither:shade_reaper",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/shade_reaper"
+        }
+      },
+      {
+        "when": "wither:death_rider",
+        "model": {
+          "type": "minecraft:model",
+          "model": "wither:item/variant/death_rider"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/air"
+    }
+  }
+}

@@ -19,7 +19,7 @@ This addon for the Wither's Wrath datapack enhances your boss battle experience 
   a wizard hat (The Withered Magus), a cowl (The Grave Shade) and a spiked crown (Harbinger of Ash).
   Nightmare, the Harbinger's horse, turns wither-black; normal skeleton horses keep their vanilla look.
   Without this resource pack the variants still spawn with their names, trimmed chestplates and abilities,
-  they just have no hats. Everything is made by `tools/generate_variant_textures.py`.
+  they just have no hats.
 
 ## Installation
 

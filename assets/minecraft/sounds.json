@@ -1,4 +1,5 @@
 {
+	"wither.bedrock_spawn":{"category":"hostile","sounds":["wither/bedrock_spawn"]},
 	"wither.10sec":{"category":"hostile","sounds":["wither/10sec"]},
 	"wither.death":{"category":"hostile","sounds":["wither/death"]},
 	"wither.phase1":{"category":"hostile","sounds":["wither/phase1"]},
